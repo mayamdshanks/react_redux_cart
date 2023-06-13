@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is not useful anymore not deprecated but we start this project it only shows fake shop we need to change its 
+link to /productList and which is kind of unusual so i'll keep this file in archieve
 
 ## Available Scripts
 
